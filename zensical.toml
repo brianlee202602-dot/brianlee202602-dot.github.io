@@ -34,7 +34,7 @@ site_url = "https://brianlee202602-dot.github.io/"
 #
 # Read more: https://zensical.org/docs/setup/basics/#copyright
 copyright = """
-Copyright &copy; 2026 The authors
+Copyright &copy; 2026 Brian
 """
 
 # Zensical supports both implicit navigation and explicitly defined navigation.
